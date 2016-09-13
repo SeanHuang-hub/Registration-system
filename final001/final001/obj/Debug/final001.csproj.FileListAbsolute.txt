@@ -1,0 +1,57 @@
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\bin\Debug\patient.sdf
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\bin\Debug\final001.exe.config
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\bin\Debug\final001.exe
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\bin\Debug\final001.pdb
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form1.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form2.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form3.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form4.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form5.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Properties.Resources.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.csproj.GenerateResource.Cache
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.exe
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.pdb
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.csprojResolveAssemblyReference.cache
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form6.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form7.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\final001\final001\obj\Debug\final001.Form8.resources
+F:\final001\final001\bin\Debug\final001.exe.config
+F:\final001\final001\obj\Debug\final001.exe
+F:\final001\final001\obj\Debug\final001.pdb
+C:\Users\冠毅\Desktop\final001\final001\bin\Debug\final001.exe.config
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.exe
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.pdb
+C:\Users\冠毅\Desktop\final001\final001\bin\Debug\patient.sdf
+C:\Users\冠毅\Desktop\final001\final001\bin\Debug\final001.exe
+C:\Users\冠毅\Desktop\final001\final001\bin\Debug\final001.pdb
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.csprojResolveAssemblyReference.cache
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form1.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form2.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form3.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form4.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form5.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form6.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form7.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Form8.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.Properties.Resources.resources
+C:\Users\冠毅\Desktop\final001\final001\obj\Debug\final001.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Desktop\final001\final001\bin\Debug\final001.exe.config
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.exe
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.pdb
+C:\Users\Owner\Desktop\Desktop\final001\final001\bin\Debug\patient.sdf
+C:\Users\Owner\Desktop\Desktop\final001\final001\bin\Debug\final001.exe
+C:\Users\Owner\Desktop\Desktop\final001\final001\bin\Debug\final001.pdb
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form1.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form2.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form3.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form4.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form5.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form6.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form7.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Form8.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.Properties.Resources.resources
+C:\Users\Owner\Desktop\Desktop\final001\final001\obj\Debug\final001.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\Desktop\final001\final001\bin\Debug\final001.exe.config
+C:\Users\Sean\Desktop\Desktop\final001\final001\obj\Debug\final001.exe
+C:\Users\Sean\Desktop\Desktop\final001\final001\obj\Debug\final001.pdb
